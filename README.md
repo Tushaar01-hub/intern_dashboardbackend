@@ -19,3 +19,6 @@ then we defined const app=express(); and const port =3000; at which it will run
 introduced some dummy data:
 
 declared app.post ,app.get and assigned them routes and retrieve the data from form i.e. username and password for post and sent dummy data of leaderboard through get
+
+To run:
+nodemon index.js
